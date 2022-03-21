@@ -7,6 +7,7 @@ This is the basic configuration of the project, including `prettier` and `eslint
 ## Refs
 
 https://prettier.io/
+
 https://eslint.org/
 
 ## Contribute
