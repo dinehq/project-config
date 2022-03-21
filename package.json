@@ -1,5 +1,5 @@
 {
-  "name": "config",
+  "name": "@dine/config",
   "version": "1.0.0",
   "description": "base project configuration",
   "keywords": [
