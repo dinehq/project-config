@@ -1,0 +1,27 @@
+{
+  "name": "config",
+  "version": "1.0.0",
+  "description": "base project configuration",
+  "keywords": [
+    "config",
+    "configuration",
+    "dine"
+  ],
+  "homepage": "https://github.com/dinehq/config#readme",
+  "bugs": {
+    "url": "https://github.com/dinehq/config/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinehq/config.git"
+  },
+  "license": "MIT",
+  "author": "Dinehq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
