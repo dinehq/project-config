@@ -7,15 +7,15 @@ This is the basic configuration of the project, including `prettier` and `eslint
 ## Installation
 
 ```
-pnpm add @dinehq/config
+pnpm add @dinehq/project-config
 ```
 
 ```
-npm install @dinehq/config
+npm install @dinehq/project-config
 ```
 
 ```
-yarn add @dinehq/config
+yarn add @dinehq/project-config
 ```
 
 ## Reference
