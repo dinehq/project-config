@@ -3,6 +3,7 @@
         "dinehq",
         "limichange",
         "pnpm",
+        "prettierrc",
         "serviceworker",
         "webextensions"
     ]
