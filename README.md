@@ -38,6 +38,25 @@ yarn add @dinehq/project-config
 }
 ```
 
+## Config
+
+### .eslintrc.js
+
+```js
+/* eslint-disable */
+const { eslintrc } = require('@dinehq/project-config')
+
+module.exports = eslintrc
+```
+
+### .prettierrc.js
+
+```js
+const { prettierrc } = require('@dinehq/project-config')
+
+module.exports = prettierrc
+```
+
 ## Reference
 
 https://prettier.io/
