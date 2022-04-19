@@ -1,4 +1,4 @@
-# @dinehq/config
+# @dinehq/project-config
 
 ## Description
 
